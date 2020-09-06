@@ -6,3 +6,4 @@ C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeT
 C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
 C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
