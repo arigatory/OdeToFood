@@ -10,3 +10,15 @@ C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeT
 C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
 C:\Users\Ivan\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\ivan\Source\Repos\arigatory\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
