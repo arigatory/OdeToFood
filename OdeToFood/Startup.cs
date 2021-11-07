@@ -55,7 +55,6 @@ namespace OdeToFood
                 app.UseExceptionHandler("/Error");
                 app.UseHsts();
             }
-
             app.Use(SayHelloMiddleware);
             app.UseHttpsRedirection();
             app.UseStaticFiles();
@@ -70,8 +69,7 @@ namespace OdeToFood
             });
         }
 
-        private RequestDelegate SayHelloMiddleware(
-                                    RequestDelegate next)
+        private RequestDelegate SayHelloMiddleware(RequestDelegate next)
         {
             return async ctx =>
             {
